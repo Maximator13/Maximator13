@@ -2,7 +2,9 @@
 
 <img src="banner.svg" alt="Maximator13: robotics, automation and web" width="100%"/>
 
-Engineering student in France 🇫🇷 · Robotics, automation & web
+**Engineering student at IMT Mines Alès 🇫🇷 · Robotics, autonomous systems, industrial automation & interactive software**
+
+I build projects that mix algorithms, software engineering and real-world testing.
 
 </div>
 
@@ -10,34 +12,48 @@ Engineering student in France 🇫🇷 · Robotics, automation & web
 
 ## 🗺️ Missions
 
-| Mission | Briefing | Stack |
+### 🤖 [Autonomous vacuum robot (ROS 2)](https://github.com/Maximator13/robot-aspirateur-ros2)
+`Python` `ROS 2 Humble` `Nav2` `Gazebo` `TurtleBot3`
+
+A TurtleBot3 Burger has to cover the free floor of a room, first in Gazebo and then on the real robot with its LiDAR. Two strategies are compared with the same coverage metric: random "bump and turn" vs a boustrophedon sweep planned on the map. Built solo in 12 h for an engineering course.
+
+- Coverage planning in pure Python (reachable-area mask, boustrophedon, coverage measurement), wrapped in ROS 2 nodes
+- Waypoint follower for the real robot, Nav2 in simulation
+- pytest tests for the pure Python modules, CSV logs of every run, plotting script
+- Architecture, flowcharts, results and known limits documented in [`docs/`](https://github.com/Maximator13/robot-aspirateur-ros2/tree/main/docs)
+
+### 📜 Interactive history sites *(work in progress)*
+`TypeScript` `React` `Three.js` `Vite` `Playwright` `GitHub Actions`
+
+Three study sites built on the same stack, each organised around an interactive timeline:
+
+| Site | Period | What's specific |
 |---|---|---|
-| 🏛️ [**Roma**](https://maximator13.github.io/roma/) | Roman history from 753 BC to 1453: timeline and 3D scenes | Python |
-| 🏺 [**Hellas**](https://maximator13.github.io/hellas/) | The Greek world, from Mycenae to Cleopatra: timeline, map and 3D scenes | TypeScript |
-| 🤖 [**ROS 2 robot vacuum**](https://github.com/Maximator13/robot-aspirateur-ros2) | Coverage path planning on TurtleBot3: random vs boustrophedon, in simulation and on a real robot. Built solo in 12 h | Python · ROS 2 |
-| 🏭 [**Flow management ERP**](https://github.com/Maximator13/ERP_Pilotage_de_Flux_demo) | Demo of a production flow management ERP | HTML |
+| 🏛️ **Roma** · [code](https://github.com/Maximator13/roma) · [live](https://maximator13.github.io/roma/) | 753 BC to 1453 | 3D scenes of Roman history |
+| 🏺 **Hellas** · [code](https://github.com/Maximator13/hellas) · [live](https://maximator13.github.io/hellas/) | Mycenae to Cleopatra | Historical map of the Greek world + 3D scenes |
+| ⚜️ **France** · [code](https://github.com/Maximator13/france) · [live](https://maximator13.github.io/france/) | Clovis (481) to Napoleon (1821) | One track per power, relief map with territories year by year (ETOPO, Natural Earth, Cliopatria), Republican calendar dates |
+
+Each one has lint, type checking, unit tests, data validation at build time, Playwright smoke tests and automatic deployment with GitHub Actions.
+
+### 🏭 [Flow management ERP](https://github.com/Maximator13/ERP_Pilotage_de_Flux_demo)
+`HTML`
+
+Demo of a production flow management ERP.
 
 ## 🧰 Arsenal
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **Robotics:** ROS 2, Nav2, Gazebo, TurtleBot3, coverage path planning
+- **Languages:** Python, TypeScript, HTML/CSS
+- **Web & 3D:** React, Three.js, Vite
+- **Quality:** pytest, Playwright, ESLint, GitHub Actions
+- **Tools:** Git, Linux
 
-## 📊 Player stats
+## 🐍 Activity
 
 <div align="center">
-
-<img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximator13&layout=compact&hide_border=true&bg_color=30,140726,a3195b&title_color=ffb347&text_color=ffffff"/>
-
-<br><br>
-
 <img alt="Snake eating the contribution grid" src="https://raw.githubusercontent.com/Maximator13/Maximator13/output/snake.svg" width="100%"/>
-
 </div>
 
 ## 📱 Contact
 
-[![Site](https://img.shields.io/badge/maximator13.github.io-1e3a8a?style=for-the-badge&logo=githubpages&logoColor=white)](https://maximator13.github.io/)
+Open to robotics and software engineering internships. Reach me through GitHub or my site: [maximator13.github.io](https://maximator13.github.io/)
