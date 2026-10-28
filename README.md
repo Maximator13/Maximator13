@@ -52,11 +52,13 @@ Demo of a production flow management ERP.
 
 ## 🧰 Arsenal
 
-- **Robotics:** ROS 2, Nav2, Gazebo, TurtleBot3, coverage path planning
-- **Languages:** Python, TypeScript, HTML/CSS, SQL
-- **Web & 3D:** React, Next.js, Three.js, Vite, Tailwind CSS
-- **Quality:** pytest, Playwright, ESLint, GitHub Actions
-- **Tools:** Git, Linux
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,nextjs,threejs,vite,tailwind,nodejs,postgres,ros,blender,git,githubactions,vercel,linux&perline=9" alt="Python, TypeScript, JavaScript, HTML, CSS, React, Next.js, Three.js, Vite, Tailwind CSS, Node.js, PostgreSQL, ROS, Blender, Git, GitHub Actions, Vercel, Linux">
+
+<sub>Also: Nav2 · Gazebo · TurtleBot3 · pytest · Playwright · ESLint · Drizzle · Clerk</sub>
+
+</div>
 
 ## 🐍 Activity
 
