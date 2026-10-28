@@ -22,6 +22,16 @@ A TurtleBot3 Burger has to cover the free floor of a room, first in Gazebo and t
 - pytest tests for the pure Python modules, CSV logs of every run, plotting script
 - Architecture, flowcharts, results and known limits documented in [`docs/`](https://github.com/Maximator13/robot-aspirateur-ros2/tree/main/docs)
 
+### 🌿 Plant Care · [code](https://github.com/Maximator13/plant-care) · [live](https://plant-care-nine-olive.vercel.app)
+`TypeScript` `Next.js` `PostgreSQL` `Vercel` `PWA`
+
+Watering tracker for indoor and outdoor plants with a Provençal watercolour look. Each plant's next watering date comes from a deterministic formula: species interval × season × local weather (ET0 evapotranspiration from Open-Meteo). Open to anyone: sign up and try it.
+
+- Built-in catalogue of 145 plants with SVG watercolour illustrations, photo identification with Pl@ntNet
+- Rule-based advice and alerts (frost, heatwave, rain counted as watering), daily background workflow with Vercel Cron
+- Web Push notifications sent by the site, installable PWA on iPhone and Android
+- Auth with Clerk, Drizzle + Neon Postgres, CSP and hardened headers, per-user API quotas, black-box security probe (26 checks)
+
 ### 📜 Interactive history sites *(work in progress)*
 `TypeScript` `React` `Three.js` `Vite` `Playwright` `GitHub Actions`
 
@@ -43,8 +53,8 @@ Demo of a production flow management ERP.
 ## 🧰 Arsenal
 
 - **Robotics:** ROS 2, Nav2, Gazebo, TurtleBot3, coverage path planning
-- **Languages:** Python, TypeScript, HTML/CSS
-- **Web & 3D:** React, Three.js, Vite
+- **Languages:** Python, TypeScript, HTML/CSS, SQL
+- **Web & 3D:** React, Next.js, Three.js, Vite, Tailwind CSS
 - **Quality:** pytest, Playwright, ESLint, GitHub Actions
 - **Tools:** Git, Linux
 
