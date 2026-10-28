@@ -54,7 +54,25 @@ Demo of a production flow management ERP.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,nextjs,threejs,vite,tailwind,nodejs,postgres,ros,blender,git,githubactions,vercel,linux&perline=9" alt="Python, TypeScript, JavaScript, HTML, CSS, React, Next.js, Three.js, Vite, Tailwind CSS, Node.js, PostgreSQL, ROS, Blender, Git, GitHub Actions, Vercel, Linux">
+<img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python">
+<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript">
+<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript">
+<img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML">
+<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS">
+<img src="https://skillicons.dev/icons?i=react" width="48" alt="React" title="React">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" title="Next.js">
+<img src="https://skillicons.dev/icons?i=threejs" width="48" alt="Three.js" title="Three.js">
+<img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite" title="Vite">
+<br>
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" title="Tailwind CSS">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" title="Node.js">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL">
+<img src="https://skillicons.dev/icons?i=ros" width="48" alt="ROS 2" title="ROS 2">
+<img src="https://skillicons.dev/icons?i=blender" width="48" alt="Blender" title="Blender">
+<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" title="Vercel">
+<img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux">
 
 <sub>Also: Nav2 · Gazebo · TurtleBot3 · pytest · Playwright · ESLint · Drizzle · Clerk</sub>
 
