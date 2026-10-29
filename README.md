@@ -6,6 +6,8 @@
 
 Robotics, control systems, testing & qualification. I write software to build, measure and prove things.
 
+<sub>🇬🇧 Profile in English · 🇫🇷 Project docs in French</sub>
+
 </div>
 
 ---
