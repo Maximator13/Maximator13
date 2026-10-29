@@ -2,9 +2,9 @@
 
 <img src="banner.svg" alt="Maximator13: robotics, automation and web" width="100%"/>
 
-**Engineering student at IMT Mines Alès 🇫🇷 · Robotics, autonomous systems, industrial automation & interactive software**
+**Engineering student at IMT Mines Alès 🇫🇷 · Looking for an engineering position from September 2027**
 
-I build projects that mix algorithms, software engineering and real-world testing.
+Robotics, control systems, testing & qualification. I write software to build, measure and prove things.
 
 </div>
 
@@ -45,16 +45,23 @@ Three study sites built on the same stack, each organised around an interactive 
 
 Each one has lint, type checking, unit tests, data validation at build time, Playwright smoke tests and automatic deployment with GitHub Actions.
 
-### 🏭 [Flow management ERP](https://github.com/Maximator13/ERP_Pilotage_de_Flux_demo)
-`HTML`
-
-Demo of a production flow management ERP.
-
 ## 🧰 Arsenal
 
 <div align="center">
 
+**Engineering**
+
 <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python">
+<img src="https://skillicons.dev/icons?i=ros" width="48" alt="ROS 2" title="ROS 2">
+<img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux">
+<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions">
+<img src="https://skillicons.dev/icons?i=blender" width="48" alt="Blender" title="Blender">
+
+<sub>Nav2 · Gazebo · TurtleBot3 · pytest</sub>
+
+**Web & software**
+
 <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript">
 <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript">
 <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML">
@@ -63,18 +70,12 @@ Demo of a production flow management ERP.
 <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" title="Next.js">
 <img src="https://skillicons.dev/icons?i=threejs" width="48" alt="Three.js" title="Three.js">
 <img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite" title="Vite">
-<br>
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" title="Tailwind CSS">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" title="Node.js">
 <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL">
-<img src="https://skillicons.dev/icons?i=ros" width="48" alt="ROS 2" title="ROS 2">
-<img src="https://skillicons.dev/icons?i=blender" width="48" alt="Blender" title="Blender">
-<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git">
-<img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions">
 <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" title="Vercel">
-<img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux">
 
-<sub>Also: Nav2 · Gazebo · TurtleBot3 · pytest · Playwright · ESLint · Drizzle · Clerk</sub>
+<sub>Playwright · ESLint · Drizzle · Clerk</sub>
 
 </div>
 
@@ -86,4 +87,4 @@ Demo of a production flow management ERP.
 
 ## 📱 Contact
 
-Open to robotics and software engineering internships. Reach me through GitHub or my site: [maximator13.github.io](https://maximator13.github.io/)
+Looking for an engineering position from September 2027. Reach me through GitHub or my site: [maximator13.github.io](https://maximator13.github.io/)
