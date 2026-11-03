@@ -34,6 +34,15 @@ Watering tracker for indoor and outdoor plants with a Provençal watercolour loo
 - Web Push notifications sent by the site, installable PWA on iPhone and Android
 - Auth with Clerk, Drizzle + Neon Postgres, CSP and hardened headers, per-user API quotas, black-box security probe (26 checks)
 
+### 🏋️ Équilibre · [live](https://equilibre-ten.vercel.app)
+
+Fitness app to get back in shape together with colleagues: weigh-ins, workouts, daily streaks and weekly goals, all in a cream, bottle green and bubblegum pink look with smooth motion. Installable on iPhone and Android.
+
+- Groups with invite links and QR codes, shared goals that update live, feed with reactions
+- Strava sync with personal analytics: pace, elevation, heart rate, records
+- Recipe import from a link or pasted text, nearby healthy restaurants, gyms, pools and sports fields
+- Each person chooses what the group sees of their weight (kilos, percentage or nothing), enforced server side
+
 ### 📜 Interactive history sites *(work in progress)*
 `TypeScript` `React` `Three.js` `Vite` `Playwright` `GitHub Actions`
 
