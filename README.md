@@ -65,6 +65,8 @@ Three study sites built on the same stack, each organised around an interactive 
 
 Each one has lint, type checking, unit tests, data validation at build time, Playwright smoke tests and automatic deployment with GitHub Actions.
 
+👉 **[Pick a timeline: maximator13.github.io](https://maximator13.github.io/)**
+
 ## 🧰 Arsenal
 
 <div align="center">
@@ -107,4 +109,4 @@ Each one has lint, type checking, unit tests, data validation at build time, Pla
 
 ## 📱 Contact
 
-Looking for an engineering position from September 2027. Reach me through GitHub or my site: [maximator13.github.io](https://maximator13.github.io/)
+Looking for an engineering position from September 2027. Open an issue on any repo, or reach me through [my GitHub profile](https://github.com/Maximator13).
