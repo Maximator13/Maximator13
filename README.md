@@ -49,7 +49,7 @@ Fitness app to get back in shape together with colleagues: weigh-ins, workouts, 
 Interactive world map of where French armed forces and gendarmerie are deployed, and why, built only from public sources: 47 current deployments, 27 past operations, 136 cited sources. Each country or maritime zone opens a sourced sheet (mission, troops, units, equipment, framework, dates), with combinable filters and a collectible card game built from the same data.
 
 - No framework, no build step: native JS modules, Leaflet on a Natural Earth basemap stored in the repo, no tiles or API key
-- Python data tooling: schema validation, source checks, basemap build, run in CI before every deploy
+- Python data tooling (schema validation, source checks, basemap build); data validation and tests run in CI before every deploy
 - Every entry cites its sources with access date, French and English interface
 
 ### 📜 Interactive history sites *(work in progress)*
