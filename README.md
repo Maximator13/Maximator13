@@ -34,6 +34,15 @@ Watering tracker for indoor and outdoor plants with a Provençal watercolour loo
 - Web Push notifications sent by the site, installable PWA on iPhone and Android
 - Auth with Clerk, Drizzle + Neon Postgres, CSP and hardened headers, per-user API quotas, black-box security probe (26 checks)
 
+### 🧪 Paillasse · [code](https://github.com/Maximator13/paillasse) · [live](https://maximator13.github.io/paillasse/)
+`TypeScript` `Astro` `SVG animation` `KaTeX` `GitHub Actions`
+
+Animated physics and chemistry course for the French final year of high school (Terminale): 24 course chapters and 20 virtual lab sessions, from projectile motion and RC circuits to pH titration and radioactive decay. Each lab is an animated SVG scene driven by its own physical model. French and English, no account, no tracking without consent.
+
+- One TypeScript model per lab (`model.ts`), kept separate from the drawing code and covered by its own unit tests (20 test files)
+- Tests run in CI before every build and deploy to GitHub Pages
+- Static Astro site with LaTeX equations rendered at build time (KaTeX), bilingual routing with shared views
+
 ### 🏋️ Équilibre · [live](https://equilibre-ten.vercel.app)
 
 Fitness app to get back in shape together with colleagues: weigh-ins, workouts, daily streaks and weekly goals, all in a cream, bottle green and bubblegum pink look with smooth motion. Installable on iPhone and Android.
@@ -92,6 +101,7 @@ Each one has lint, type checking, unit tests, data validation at build time, Pla
 <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" title="Next.js">
 <img src="https://skillicons.dev/icons?i=threejs" width="48" alt="Three.js" title="Three.js">
 <img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite" title="Vite">
+<img src="https://skillicons.dev/icons?i=astro" width="48" alt="Astro" title="Astro">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" title="Tailwind CSS">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" title="Node.js">
 <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL">
